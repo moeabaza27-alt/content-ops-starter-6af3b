@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      We apologize for the inconvenience, our website is temporarily down for
+      scheduled maintenance. Our team is working hard to finish the updates
+      quickly. We appreciate your patience and will be back online soon.”
+
     actions:
       - label: Get started
         altText: ''
