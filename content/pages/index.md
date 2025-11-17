@@ -13,16 +13,7 @@ sections:
       scheduled maintenance. Our team is working hard to finish the updates
       quickly. We appreciate your patience and will be back online soon.”
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
