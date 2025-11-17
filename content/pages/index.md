@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       We apologize for the inconvenience, our website is temporarily down for
       scheduled maintenance. Our team is working hard to finish the updates
