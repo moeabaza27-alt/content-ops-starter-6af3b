@@ -44,7 +44,7 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home
   metaDescription: 'This site for Sephire Concrete Restoration in Mississauga '
   socialImage: /images/main-hero.jpg
   type: Seo
