@@ -15,7 +15,7 @@ sections:
 
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/Yellow and white illustration website error instagram post.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
