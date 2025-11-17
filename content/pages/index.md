@@ -8,11 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       We apologize for the inconvenience, our website is temporarily down for
       scheduled maintenance. Our team is working hard to finish the updates
-      quickly. We appreciate your patience and will be back online soon.”
-
+      quickly. We appreciate your patience.
     actions: []
     media:
       url: /images/Yellow and white illustration website error instagram post.png
